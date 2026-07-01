@@ -1,0 +1,62 @@
+[
+  {
+    "problem": "Team meetings were often delayed due to manual scheduling.",
+    "solution": "I started sending calendar invites earlier.",
+    "impact": "Meetings became slightly more organized.",
+    "context": "Office coordination"
+  },
+  {
+    "problem": "I was forgetting daily tasks.",
+    "solution": "I wrote them in a notebook.",
+    "impact": "Helped me stay a bit more organized.",
+    "context": "Personal productivity"
+  },
+  {
+    "problem": "Customer queries were repetitive.",
+    "solution": "I created a document with common answers.",
+    "impact": "Reduced time spent answering repeated questions.",
+    "context": "Customer support"
+  },
+  {
+    "problem": "Team communication was slow.",
+    "solution": "I introduced a shared chat group.",
+    "impact": "Improved communication speed within the team.",
+    "context": "Team collaboration"
+  },
+  {
+    "problem": "Bug detection was taking too long.",
+    "solution": "I wrote a script to automatically scan logs for errors.",
+    "impact": "Reduced debugging time significantly.",
+    "context": "Software development"
+  },
+  {
+    "problem": "Deployment process was slow and manual.",
+    "solution": "I automated deployment using a CI/CD pipeline.",
+    "impact": "Deployment time reduced by 50% and errors decreased.",
+    "context": "DevOps"
+  },
+  {
+    "problem": "Customer support team was overloaded.",
+    "solution": "I developed a chatbot to handle common queries.",
+    "impact": "Reduced workload and improved response time.",
+    "context": "Customer service"
+  },
+  {
+    "problem": "Data analysis was repetitive and time-consuming.",
+    "solution": "I created reusable scripts for data processing.",
+    "impact": "Saved hours of manual work each week.",
+    "context": "Data analysis"
+  },
+  {
+    "problem": "Inventory tracking was inaccurate.",
+    "solution": "I designed a simple tracking system using spreadsheets with automated updates.",
+    "impact": "Improved accuracy and reduced manual errors.",
+    "context": "Operations"
+  },
+  {
+    "problem": "No system existed to predict equipment failures.",
+    "solution": "I implemented a predictive maintenance model using historical data.",
+    "impact": "Prevented failures and reduced downtime significantly.",
+    "context": "Industrial operations"
+  }
+]
