@@ -61,7 +61,7 @@ Knowledge-Innovation-Scoring
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/knowledge-innovation-scoring.git
+git clone https://github.com/ahmedmallick97/knowledge-innovation-scoring.git
 ```
 
 Install dependencies
